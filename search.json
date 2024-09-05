@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "assignment2.html",
+    "href": "assignment2.html",
+    "title": "assignment2",
+    "section": "",
+    "text": "home\n\n\n[1] \"output\"\n\n\n\n\n\n\n\n\nNote\n\n\n\ncall out block\n\n\n\na thing\n\n\n\n\ntable\nhead 2\n\n\n\n\nrow 1 col 1\nrow 2 col 2\n\n\n\n\\((a+1^2)/2\\)\n\\[x + y = 56 - alpha * beta\\]\nJust use markdown for this"
+  },
+  {
+    "objectID": "assignment1.html",
+    "href": "assignment1.html",
+    "title": "Assignment1",
+    "section": "",
+    "text": "first\nsecond Testing of assignment page\n\nthemes"
+  },
+  {
+    "objectID": "assignment1.html#small-header",
+    "href": "assignment1.html#small-header",
+    "title": "Assignment1",
+    "section": "small header",
+    "text": "small header\nreal small\n\nfirst\nsecond Testing of assignment page"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Github Website",
+    "section": "",
+    "text": "Testing.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]
